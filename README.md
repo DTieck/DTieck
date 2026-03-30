@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there! I'm Daniel Tieck
 
-<!--
-**DTieck/DTieck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a physicist with a deep fascination for the mathematical foundations of our universe, specifically **Quantum Field Theory**.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me:
+
+- **Interests:** QFT, QIT, and the future of Quantum Computing.
+- **Python:** Intermediate. Currently leveling up my skills in data structures and machine learning.
+- **Mathematica:** Experienced in analytical solving and simulation.
+- **Learning:** Currently revisiting the fundamentals of Quantum Information Theory through "Introduction to Quantum Information" from KAIST to ensure a solid theoretical base.
+- **Looking Ahead:** I am currently seeking PhD opportunities where I can apply my background in QFT to new challenges in QIT and Quantum Computing."
+
+
